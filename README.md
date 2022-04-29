@@ -15,6 +15,9 @@ In this Project , user has small E-wallet which is divided into 3 parts
 
 ## Getting Started
 
+##Project-preview
+https://user-images.githubusercontent.com/84542785/165955452-4f4be34a-9555-4eac-91ae-5c5b28a51d41.mp4
+
 ### Dependencies
 
 - Browser
@@ -43,5 +46,9 @@ also can check out the code in proper editor ex.VScode
 ## License
 
 This project is licensed under the [sanket barapatre] License
+
+
+
+
 
 
