@@ -15,8 +15,7 @@ In this Project , user has small E-wallet which is divided into 3 parts
 
 ## Getting Started
 
-##Project-preview
-https://user-images.githubusercontent.com/84542785/165955452-4f4be34a-9555-4eac-91ae-5c5b28a51d41.mp4
+https://user-images.githubusercontent.com/84542785/165956860-8ad5f7b1-ec76-4f8b-8a81-3d32ac976a30.mp4
 
 ### Dependencies
 
